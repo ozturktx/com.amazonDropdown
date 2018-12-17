@@ -1,4 +1,4 @@
-package com.cybertek;
+package com.cybertek.tests;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.http.util.Asserts;
